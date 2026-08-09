@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client_mods_clean.txt"
+hash = "addfb699a3c8dbc4acc022fdfd4bbe4d0f6bd58395e899eba40edc9f1bdf4acb"
+
+[[files]]
+file = "client_mods_raw.txt"
+hash = "d6108a2719a0d5fb603cf9e6eb9c90d5a380208e42c5ec0e81457c8ff595580f"
+
+[[files]]
 file = "index.toml.bak"
 hash = "33ece852e74bf349355041d19e7618ba5a7f5eb8e0cad341e53edf339ad03ee5"
 
@@ -59,14 +67,6 @@ hash = "4ce7caea5571c79852e8df9d1dbada671a9dec9b026ff69d9e987f2e39e5d76b"
 [[files]]
 file = "mods/[投影] litematica-fabric-1.20.1-0.15.4.toml"
 hash = "5f4948fc6cdf9316877992008222425672a3c73e67ef173f8976e2c2ec0d9d8b"
-
-[[files]]
-file = "mods/[更好的F3] BetterF3-7.0.2-Fabric-1.20.1.toml"
-hash = "6fef3f421ace6a66244e122cf2b1537790cf7b823d85b96e7b1be777fcd8d4fc"
-
-[[files]]
-file = "mods/[模组菜单] modmenu-7.2.2.toml"
-hash = "b859e1299ee2e13e9341a724db7a628f4ae7ed8fd8d96121d70ad6be6304f54b"
 
 [[files]]
 file = "mods/[网络音乐机] netmusic-1.5.1-fabric+mc1.20.1.toml"
@@ -587,6 +587,10 @@ hash = "5da394d30ef3783908c6a771c833e4c00e589f65c4b9ece55a398cb3c9b47fbe"
 [[files]]
 file = "overrides/mods/CustomSkinLoader-Common.jar"
 hash = "806d0ae7ec31f4e8d9ba81780556a9d5d3d5994b9799b9ecc67478fc93a98323"
+
+[[files]]
+file = "overrides/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
+hash = "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a"
 
 [[files]]
 file = "overrides/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
@@ -1319,6 +1323,18 @@ hash = "3fd19227ea49b9e27e4fc7f22691584b782cbccfd0b77456dff8ab7568f8509b"
 [[files]]
 file = "pack.toml.bak"
 hash = "46261ce64a6be5b61c855859a6934cd5a8e8cee80b781b789beae8da6078f9c5"
+
+[[files]]
+file = "server_mods.txt"
+hash = "87539d8803018cae55917bfd749e2a89eb87fdc2c22b5adadf8356754225ef19"
+
+[[files]]
+file = "server_mods_clean.txt"
+hash = "87539d8803018cae55917bfd749e2a89eb87fdc2c22b5adadf8356754225ef19"
+
+[[files]]
+file = "server_mods_no_prefix.txt"
+hash = "97d0615112d8846be133b9a301e70b6dfa97a931ce0f4025c47e187dd2d9f3b2"
 
 [[files]]
 file = "tomls.txt"
