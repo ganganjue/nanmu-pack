@@ -1,0 +1,7 @@
+name = "mishanguc-1.6.1-1.20.1.jar"
+filename = "mishanguc-1.6.1-1.20.1.jar"
+side = "both"
+[download]
+url = "https://cdn.modrinth.com/data/rItLmRo4/versions/qnJmsdl5/mishanguc-1.6.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "a17b7b69bd90d5ffb74bb4ea4ce4df7783ecbe70"

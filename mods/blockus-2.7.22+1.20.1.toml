@@ -1,0 +1,7 @@
+name = "blockus-2.7.22+1.20.1.jar"
+filename = "blockus-2.7.22+1.20.1.jar"
+side = "both"
+[download]
+url = "https://cdn.modrinth.com/data/zFiY2Go0/versions/vhQmw0yJ/blockus-2.7.22%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "9cce93667c1c556a0aa33e609ba29db4a32e7af0"

@@ -1,0 +1,10 @@
+# 忽略所有 mod 的 jar 文件（这些文件太大，且不需要上传）
+mods/*.jar
+# 忽略临时文件和压缩包
+temp_mrpack/
+*.zip
+*.mrpack
+# 忽略 Git 相关文件
+.git/
+*.bak
+*.txt

@@ -1,0 +1,7 @@
+name = "[我的世界铁路] MTR-fabric-4.0.5+1.20.1.jar"
+filename = "[我的世界铁路] MTR-fabric-4.0.5+1.20.1.jar"
+side = "both"
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/5cxaj3g8/MTR-fabric-4.0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0b5c3b981418e092bfb0aa3f7414110be1c61040"

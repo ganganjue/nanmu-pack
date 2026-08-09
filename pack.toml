@@ -1,0 +1,13 @@
+name = "nanmu"
+author = "muou_(jj)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8634dffec7a1da037d0cd735244ebfcb83e8e5ca5fa8bad11bbaa3e6c1ed341f"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"

@@ -1,0 +1,18 @@
+{
+  "danger_items": [
+    "minecraft:tnt",
+    "minecraft:tnt_minecart",
+    "minecraft:gunpowder",
+    "minecraft:shears",
+    "minecraft:arrow",
+    "minecraft:bow",
+    "minecraft:iron_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe",
+    "minecraft:iron_sword",
+    "minecraft:diamond_sword",
+    "minecraft:netherite_sword"
+  ],
+  "currency_item": "minecraft:emerald",
+  "max_fare": 128
+}
