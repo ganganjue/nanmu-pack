@@ -1,7 +1,0 @@
-name = "JCM-fabric-2.2.3+1.20.1.jar"
-filename = "JCM-fabric-2.2.3+1.20.1.jar"
-side = "both"
-[download]
-url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/yRgxw8mS/JCM-fabric-2.2.3%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "efde260b541707e04024a993c29a799280e88ca1"
