@@ -541,12 +541,64 @@ file = "overrides/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
 hash = "8cd722262900d9e6af5b4567f5539199494827e605441d9e9c1a12e1b3808307"
 
 [[files]]
+file = "overrides/mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
+hash = "5eea426af467564618e017e8f3a62f1c5c4224ab32a0a1726313de130a2d783d"
+
+[[files]]
+file = "overrides/mods/Ixeris-4.6.2+1.20.1-fabric.jar"
+hash = "facd5b8451677599235521e34064cbbb173cee7f336f07408241b9c89c8feb70"
+
+[[files]]
+file = "overrides/mods/Jade-1.20-Fabric-11.13.3.jar"
+hash = "5a2830f6e5edabbb632c33eed5b9cabf45495ccb937c976a3656efe74a183375"
+
+[[files]]
 file = "overrides/mods/[更好的灯] simplylight-fabric-1.20.1-1.4.5.jar"
 hash = "8ffecd103e463a8b21199c89710b4d52cbdb38b90ca9d14e122d7c6649e8e71b"
 
 [[files]]
 file = "overrides/mods/[简单的语音聊天] voicechat-fabric-1.20.1-2.6.21.jar"
 hash = "bb0a5bef7390bc2efeadb6e60946a8ff7b91405ac741b626cc64687cdaf812fc"
+
+[[files]]
+file = "overrides/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.18.jar"
+hash = "f97579cde7dc6837b30e7287b1da0e04eb31f77edc714d6adabbfdc5649833b9"
+
+[[files]]
+file = "overrides/mods/ferritecore-6.0.1-fabric.jar"
+hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "overrides/mods/immersive_paintings-0.6.13+1.20.1-fabric.jar"
+hash = "ecd7ef5e513e8f6b74bb3ed045f235deef83c1e469bf34d73885662c91511434"
+
+[[files]]
+file = "overrides/mods/iris-1.7.6+mc1.20.1.jar"
+hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"
+
+[[files]]
+file = "overrides/mods/jecharacters-1.21.1-fabric-4.5.27.jar"
+hash = "e06a786b04b6519355661f4f78bc5057002ca579254aabbc490f4c9434b02d6e"
+
+[[files]]
+file = "overrides/mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
+
+[[files]]
+file = "overrides/mods/sodium-extra-0.5.9+mc1.20.1.jar"
+hash = "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f"
+
+[[files]]
+file = "overrides/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
+hash = "c3b24e230beb1e69d6c11fe3d5c9f9683ffb141d696d60b8bf6c229b0aed5495"
+
+[[files]]
+file = "overrides/mods/sodiumoptionsapi-fabric-1.0.10-1.20.1.jar"
+hash = "2e34c4ecac29d2ae363d433b5104aae986161e887252e145fa84a27d04761612"
+
+[[files]]
+file = "overrides/mods/starlight-1.1.2+fabric.dbc156f.jar"
+hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
 
 [[files]]
 file = "overrides/resourcepacks/ERIDU-10000二期改造型.zip"
@@ -1283,6 +1335,1150 @@ hash = "97d0615112d8846be133b9a301e70b6dfa97a931ce0f4025c47e187dd2d9f3b2"
 [[files]]
 file = "server_online.txt"
 hash = "43811bb0286bfe495337b52a57fac6718e60ec52ce876147e85f34d076687908"
+
+[[files]]
+file = "temp_mrpack/client-overrides/.abnormal"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "temp_mrpack/client-overrides/CustomSkinLoader/Core/CustomSkinLoader-Common.jar"
+hash = "806d0ae7ec31f4e8d9ba81780556a9d5d3d5994b9799b9ecc67478fc93a98323"
+
+[[files]]
+file = "temp_mrpack/client-overrides/CustomSkinLoader/CustomSkinAPIPlus-ClientID"
+hash = "e2f28f1fb0c4b83d7a00c69b2edc3536a5d10774d231dab296f6eb148eb90a93"
+
+[[files]]
+file = "temp_mrpack/client-overrides/CustomSkinLoader/CustomSkinLoader.json"
+hash = "5d22ef61cba659ec98b4b6edb10b61f4cb12d85d6009acfea137ffbe69259d4a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/XaeroWaypoints_BACKUP240807/Multiplayer_free-c3.tudouai.cn/config.txt"
+hash = "d8af0188b8be547a42d0a69cf60d997321736b99937b3d31fafa0f4fbbd14854"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/.axiom.json.backup"
+hash = "d03552a29713cef72c721cc4a437bad2cd5527453efc2b4eb36daf600ecaf7f1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/axiom.json"
+hash = "e750ea7917c13b985aa6899cd75844b3fa5ca4d228d585afd0c0ca7d2aa074e6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/blueprints/隧道1.bp"
+hash = "e12fdd17694f60b8b1fd94b7114791150f458aa2143aaf0f941f9898d8270020"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/imgui.ini"
+hash = "08628cc5967bdd288015d6529135d7adbecb55d94e390c56caabce5dbdab3a3a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/.defaults"
+hash = "dcb37a64de62b8f3c7edf325410dd4afb17e6c35ddecca1bb75940c7f06558b9"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/clear_foliage.nbt"
+hash = "0f6da542a957d8b9b857f521ef2cbbcf85b07b054e81d6eff611d5101953dd78"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/flowers.nbt"
+hash = "321a73faabf7ff94814a5c42cdba5d3ba6ec4b0c84e9804a1b633a3b9d7bdda1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/grass.nbt"
+hash = "b66c5a3a759e155393d41e230f37db04965443ed883263ea1aad0823b713216e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/heart.nbt"
+hash = "269d7c0ff9678d982e13f5cefe1bbd878dbe259eaff45adfa183341da7b28549"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/kelp.nbt"
+hash = "4c1bc770cd9b655c0e87f7adfbeaff80e50be5fc06216b3bffd28801e38c9101"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/leafy_bushes.nbt"
+hash = "23f47e0fae15028a63ef1393170e02a7ff1417c593134f521b8e41476e793eb4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/terrain__desert.nbt"
+hash = "e86058f56d5092a2cce4d3b715c9e609c3e46ce36dc1458d707a2f6e011ad19c"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/terrain__plains.nbt"
+hash = "19aaa47c359a65c728234a64fab3f373e3bb6b70b4937a028bd34b85ede13b04"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/tool_presets/script_brush/vines.nbt"
+hash = "ec6af9be81c3b55056a560240ec876b757848aee1e40bd4115bffda5cca01fd0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/axiom/translations.zip"
+hash = "0cc959dc05753d96e984527378af826922b30bdede0a215ade40e642f1710361"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/bettervillage_1.properties"
+hash = "76f488174ca0c464c436caa4333d31d8e80ef990974cfba5426ae537fabbbd02"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/biomesoplenty/biome_toggles.json"
+hash = "6e81cf8f8ffd55004413d05e2579a63613d39a180bf5a4ff67ffa98ec44b1aa9"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/biomesoplenty/gameplay.toml"
+hash = "659a0e32bcbb7c13496cde1bcbc8f72291a2f5baef118f6ad23c46fa0edae8f4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/biomesoplenty/generation.toml"
+hash = "c59bf79d11c249f7a6aefc6dbeeef2d3c4752503daca0f4082cdc1500985a7b3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/c2me.toml"
+hash = "e6b7bb8bb0aa3829fb7b4e0c23cb716370bb384015f6e6be405f1b37e2a0c1f6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/chat_heads.json5"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/effortless-client.toml"
+hash = "80f7938deeab9dd36ce62eae098daa427d3e4d42777b6e6dd21dcaba3f131d79"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/effortless.toml"
+hash = "dc9dd30803eda73adc8a1407c2a6cfd2ca17a615b90148e069601891b857b64a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/fabric/indigo-renderer.properties"
+hash = "e583a260a4b6bfb1f53c455f9861dbd028337d434b0661cab540724dfa12b51f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/forgeconfigapiport.toml"
+hash = "4e8b18f0f0f1e186b071be9fdc1b07c9131897f713ae8fd6f78911ae8989ead5"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/iris.properties"
+hash = "999da287dad4770950a1b97062aaaeee8b811f5eac4bb10d9bd45cd9ed3b487b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/ixeris.toml"
+hash = "fb01aa8a788bec8b6d54aeb36290dbdf4f627cc64dbb8db76e3021a5d803791b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/jade.json"
+hash = "8a9c0403b385ca106d0c0b541ea2f2128bf39e3f9b05b342b176ca11834857a4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/plugins.json"
+hash = "d570398d0b7d4c9b348fdcfb235e2481c72b951685ea5b293b257670d4fcc825"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/sort-order.json"
+hash = "65471cbdd0592bfe0caea3682324bb0785dc3f3765b73391f880921f8ba61366"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jade/usernamecache.json"
+hash = "7a7d844cff997d6dafa7c69b7d96697eb13511a2e7e9c526a4e78c0957c0a98a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jecharacters-extra.json"
+hash = "621f44c75d9c9e038e3a9f2c809342b5fc007e15a443b62e299ada1f2b21fb7a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jecharacters.json"
+hash = "be42cd61fc8b291b3e1b89dc37888198fabd75f2e8cf05999c3193e8136273a5"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jsblock/client.toml"
+hash = "a3d6d28326c1710827a18842ba80b5c81ff6f7556ce58c25045c236228f518bc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/jsblock/server.toml"
+hash = "2e7b037e9e5bad89024c8b1ed70b83d36bb293fa40a7b0b9a9e221cced03dcf3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/libraryferret_1.properties"
+hash = "c070622ef4dd07643dc182525ed204b1b04091c9c2a6f63a41db57aa3d34155b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica.json"
+hash = "ac67616a73606f4d524032ca3c7e5967579cbad6ae94fb50423ea6cd5e1536bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica___.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica____dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_ante__.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_ante___dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_free-c3.tudouai.cn_20465.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_free-c3.tudouai.cn_20465_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_nanmu.tudou.games.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_nanmu.tudou.games_dim_minecraft_overworld.json"
+hash = "65b310abae05c01c978a9d314c708e4d3c8e2f800536a0bef122f41ef906f1c1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_new_world.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_new_world_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_test.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/litematica/litematica_test_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/metropolis/client.json"
+hash = "2ea27d7106e67c8d441efb179dfa6656f019fc03f87b7cc433941b3320fa8ea6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/metropolis/common.json"
+hash = "d7cad2c887c99809a4c7eaa46b8e710a659c9350c423636031dd8b8f015c15da"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/modernfix-mixins.properties"
+hash = "0d3c8940048a1eab351bb096a39477d1e087a15522f07ccf7f51f5591c5e0a6f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/moreculling.toml"
+hash = "aed6830046f1838dd3532392e527d1f9784afb2b584655c431b7af07a75dce50"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/mtr.json"
+hash = "d7c83cf10151c1f27ca367894b82133c0ad960c10907b7a8a15862985eddf421"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/netmusic-common.toml"
+hash = "7b56451613f06053dc7e639a7ff8c2821f418c13382e433c561b91de127f6db8"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodium-extra-options.json"
+hash = "397c8144c4440ecde7899c8d0bda480354bee15bd8f4b1d238a673fab9a7b034"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodium-fingerprint.json"
+hash = "853ef8509ae565f20e9068a3a917b413e4c69fdb6dca42d27ee3317d51ef5712"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodium-mixins.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodium-options.json"
+hash = "d2c80b545b07b1c32c37f77c3b8af6389c608f4a2e23fc35e752dc09342ed560"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/sodiumextras-client.toml"
+hash = "692a7d1094db72351f8c67893a8afeb9782f487b55a7d2d76b0c6f4ce50cc5eb"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/terrablender.toml"
+hash = "3fdb9aabe738185587f39bc8a8b425a3454ecdcd99f565a4368d5deb41467a2d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/tjmetro.json"
+hash = "ae1675bcb49e007073e1157090b1ea0a2984fc0e9153471e709814c6b7eed69d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/voicechat-client.properties"
+hash = "0cc28bc24439fac8e8ee2024f13ce8a397a29cdb9ce108eeb76f5c2e701dc35d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/voicechat/voicechat-server.properties"
+hash = "12844cde82795bdc2914a21b5a61cf52759d234441fd5131c8a7419647a0a6ab"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/worldedit/worldedit.properties"
+hash = "d94eff791e81f37f7cde581b35fb302923e27577c9dd52f6e680c541d3bb4fbe"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/default_radar_categories_client.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/profiles/default.cfg"
+hash = "b2c874652376405e5d289cbb4e8bd65c64d27efef9de07c326be165fa730fb3c"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/world-map/client.cfg"
+hash = "a42dfa85a61ab25543ad1bd2c003620e69a1c62f177845909f9f71bbd65e2b52"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/world-map/profiles/default.cfg"
+hash = "e3a0a2000001da1c8954fa0be64bfe54d92b11e784ea63989c9013d17e56f8c7"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaerohud.txt"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
+file = "temp_mrpack/client-overrides/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "temp_mrpack/client-overrides/mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
+hash = "5da394d30ef3783908c6a771c833e4c00e589f65c4b9ece55a398cb3c9b47fbe"
+
+[[files]]
+file = "temp_mrpack/client-overrides/mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+hash = "8cd722262900d9e6af5b4567f5539199494827e605441d9e9c1a12e1b3808307"
+
+[[files]]
+file = "temp_mrpack/client-overrides/mods/[更好的灯] simplylight-fabric-1.20.1-1.4.5.jar"
+hash = "8ffecd103e463a8b21199c89710b4d52cbdb38b90ca9d14e122d7c6649e8e71b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/mods/[简单的语音聊天] voicechat-fabric-1.20.1-2.6.21.jar"
+hash = "bb0a5bef7390bc2efeadb6e60946a8ff7b91405ac741b626cc64687cdaf812fc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/ERIDU-10000二期改造型.zip"
+hash = "c72f6d92d9abb76cb53d39023b9060eb72db4654df15b6d6211f940de3ee0dfa"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/Easy+Catenary+Connector+2.0.zip"
+hash = "5913d9f2a05615887203de936505a09fe8c8d7ba2f03db612fe6f555f11fc684"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/[250902][森哥][MTR4]中国铁路25G型客车系列.zip"
+hash = "d5ba9c3117723081bc8924ef09ef369aa1e8d6275bbb3c8d35f97b71dd14a54a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/[250903][森哥][MTR]SFM04.zip"
+hash = "8d8f536fa8826c2650cb27f80b9238d57aade589cdbd038c6d7de49cb53ffa40"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/[4.0]上海市域铁路机场联络线资源包.zip"
+hash = "55f9f80c55ed0c05d71115413ed8a57d8db0d8405ed90cc6f0aa0ce3bd36550d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/[CRAA]China Railways Additional Bet.zip"
+hash = "c498218a611b2f1c011cddc73d244342302734f98334e8c2cef5fb46ec77893e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/cr400af.zip"
+hash = "0f88c94d3dca938a9c5456c1c3de0048ff01a3cf9bac1b8bcfb6d249095b845d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/§l南京地铁追加包V1.0.4.3.zip"
+hash = "9f3d09414d19c15449951fc10c529f7650cd69a58b1575e1cc267c05a40b8720"
+
+[[files]]
+file = "temp_mrpack/client-overrides/resourcepacks/南京地铁1号线-体验版.zip"
+hash = "465cbc9083b99d60c4afedb1f164f68ed8b6cad250ae76e32d420a00eb177b06"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/minimap/Multiplayer_free-c3.tudouai.cn/config.txt"
+hash = "d8af0188b8be547a42d0a69cf60d997321736b99937b3d31fafa0f4fbbd14854"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/minimap/Multiplayer_free-c3.tudouai.cn/dim%0/mw$-1215235921_1.txt"
+hash = "1c6c45b2fbd9142c81eae1f9a4e84d60084348995a8972288898365b73f06b5a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/dimension_config.txt"
+hash = "6ebce4f295ee8c389d3f79c44f1fbe7704a036d96fd48310aef6eae9f775ae64"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_-1.zip"
+hash = "b1790250664008218abccb68a8c8ca9301b42178e3c821ff78fa852392d1bc16"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_-2.zip"
+hash = "27ffcbae76d9167e5e89e6f79056fada912e168711a9a3478d9cfdfe76855712"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_-3.zip"
+hash = "5c15f80fb42969e1112eb85bed858f04315809ed4fbe3761dc9250d92d790e78"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_-4.zip"
+hash = "b22729821228782bb23f6ad618b22bbee46d6c67cb887cc4fc6eda0bdf6fb8b5"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_0.zip"
+hash = "a29cea9b8d4c32922384613a52dbfe26f201a3a0698fd1bc9ce02c00a9881f04"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-1_1.zip"
+hash = "a8aa94363b33f49a46aec6a9b386292d97db2dca49ba687443e75e7a43a4d50b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-2_-1.zip"
+hash = "d7f8c0e3712f0f6b650f0aba3906f5cddfb4ff72b1398645749b1d421c55c862"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-2_-2.zip"
+hash = "8100bb827b6d971e4e18b4c1385a1ef42149647668541c3ba055d0234e4c6a4f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-2_-3.zip"
+hash = "1faa1b9c59e66bf05071ba9183e0567ad1b1ad19e7b715c205c733b068f3fbb4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-2_-4.zip"
+hash = "85967f9c84f214f570be0a1b2b23876a4b0f195f6b9a846b1417ff0a3f467db4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-2_0.zip"
+hash = "42c3b7364b12496177d15f56a787d7778955cad4e0b12aaf0e8e5f7f27bd32c3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-3_-1.zip"
+hash = "b907e6f32ae00231457bc6d6dfba2422a69411a2e972437c66c1c481d5498d3f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-3_-2.zip"
+hash = "b1af3c9463cc4e4bf9ed3cb1f26dc97b9b276416553e6589552cdb47e5aca2b0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-3_-3.zip"
+hash = "5e203d45be6285b5548a2a3dffd2013e2c8dd4a67d61860b231557e9c4e0477e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-3_0.zip"
+hash = "83f1a6d0f6823938f60c4aa37486b39e69af5fb3f3fb7eb0d54b0b3505e3c852"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-4_-1.zip"
+hash = "153e0064d7b8b0b35c33ba38731c8a2dfeb5aa57d9b1af9158519ed80988ad3a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-4_-2.zip"
+hash = "573e11b4c0d8b9872fd4b17af82b8fc2805a9cd88d55b793c0dac0a153623726"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-4_-3.zip"
+hash = "93be13bb3fd2ebc59f1c2eda4f04f0a899f65a9702d4564f26cb341129663ea8"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-5_-3.zip"
+hash = "74a071140dd8681a017de0cfe39e7268e27a99ff4b2ea1dcc700636b831d7b02"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-6_-2.zip"
+hash = "115a82657f228a1ef1fa2127ec0611fb566743b3ab3122975450954270e2d46c"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-6_-3.zip"
+hash = "6602887d7f7a6b35d5a89f031270b40fd477e22130466a78576b4d8dfb75c501"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-6_-6.zip"
+hash = "19b3b55895e12b78307309a84fbae51478a4f874852faf7d3d06d65b00bffbae"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-6_-7.zip"
+hash = "c15a8cee8746f60ac8dbc7130cdcd854d76ae21f1fc3ed5e6fa3ebc792a21c50"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-7_-2.zip"
+hash = "ef2eb00a4cfecbba45b3f4d8d5c911377e4c94f1f0a3916b159c64b3f56fd56d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-7_-3.zip"
+hash = "19d2046f39bd9313099d23d9486501241a6d579b64cd981c21a3706fccef9fa2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-7_-6.zip"
+hash = "3decf22d50cfebf40bb1261c2d5946f7c11fd01ae7400f1263b5d9fd50a1e664"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/-7_-7.zip"
+hash = "8cbf9792cddbf3871e9d25f563e7dd754f5f640411b3be23fb293e726192db0b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/0_-1.zip"
+hash = "351a563fa99a4142ca330980564bfdd8c00542d16572fa95379385aa6c273ef5"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/0_-2.zip"
+hash = "e714e9a7e6e4c210ea3e98624adfda3d4c4baba4dc21dcd94bce90f49e43075a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/0_-3.zip"
+hash = "c9671e5dbba24739afeaf0c6521c2dd66a1c636791af6e1aec2471a9e4d80d20"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/0_0.zip"
+hash = "39a0f93b47239b446c2b83979a2ea52ad58fd4df472ec034680d96f7dd0f2f51"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/0_1.zip"
+hash = "7ac8aa09ffa5ab23b5e3bc3b4c1d586e8c6c9d8a848fae535553adfe310ece1e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/8_4.zip"
+hash = "e10254de1ad610ba834130b21ca4f47baf792929c88a21ddc83743024bc6698c"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/9_4.zip"
+hash = "c85eff296301eb320d4db4758b0e00452e0122f1c9dd8578337ed36a6730c9cc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-1_-1.xwmc"
+hash = "391c6bc958dd3af1a50bfcbf34012454722ccedece1d64e347d8a807ff4606a0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-1_-2.xwmc"
+hash = "4e399faa844182f6c2636694a6b7e31db8b2e07f929e5c61b45da8f34908d892"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-1_0.xwmc"
+hash = "62805ef3fff6038d56cc0e92e8bb1ded4a4c1edbe9eb3891d68418fb0ed22040"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-2_-1.xwmc"
+hash = "753ce578a4a495f1ad55d5d1276c98b885aa2e5ceb8dd4f1aef9d193e930783e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-2_-2.xwmc"
+hash = "c672ce248a49213fc7f35aecae34f1dbbea6d72c67c52af9763e35404779e5cf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-2_0.xwmc"
+hash = "4902c998c376616d54816f1a052ebdcd4815f371ccf923b3b93c3d7432ed4248"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-3_-3.xwmc"
+hash = "04a299d4c355623e7d72aebc5bebd131e6621d844fda3f1275c052486ceec5cc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-3_-4.xwmc"
+hash = "5f00658fb54a11a160699f812c068b671ddc3c7f5034aa27084a369a1b75f1f1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-4_-3.xwmc"
+hash = "1f52a145574c7fdf2a636aca95d7b6250660c9511cf6c29700474c96a2cebc17"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/-4_-4.xwmc"
+hash = "b9297bae97d6c3a45ffc3c97df4beede613648d67c3c77634bdede437ea57c03"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/0_-1.xwmc"
+hash = "9b75bfd16b152e0bbea14b47fe1ec55f6aed95e2c120921e632312707247f0cd"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/0_-2.xwmc"
+hash = "89281b39f01afa454805e2dc58e3039563a5996ae20d6d5402b0be27bbac12a0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/0_0.xwmc"
+hash = "1e63aea8e4599399ef3f75cd3f8c4ac9826f8814d3ed45839754222605cc1b70"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/1/4_2.xwmc"
+hash = "9a736a9c3378236d38062ca9de7ac94ac8b19b0b5dc04814165433e16b3a31d4"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/-1_-1.xwmc"
+hash = "8e2fe506f3ddbb8583528f210df32932602dac221abfead5fb2a6faa1763f108"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/-1_0.xwmc"
+hash = "de1002bc0df02aac6c7baa218e3fdf89be4d9aeaef3e9852d1783551b442b95b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/-2_-2.xwmc"
+hash = "5801f36c78417f7b25b75097d866b933b8016cc3f3afc949b7aeaa62f12ea91a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/0_-1.xwmc"
+hash = "6a88652be8089b64fe49601d16500f8520a46f03b94ccb6b45340157ef023387"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/0_0.xwmc"
+hash = "c1592bb0d42359a241b3d168a0efca9fe5b2a417453e87d2d6f7b7b0ebd4be62"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/2/2_1.xwmc"
+hash = "3eea8b7f3f7375935bbddb3de19b5bca5ccfec9e25dc3eb003d0777ba0bcd9c2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/3/-1_-1.xwmc"
+hash = "9c7722000110438402b034ca0dc648d9395215e47c6251044bf64c131fe955eb"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/3/-1_0.xwmc"
+hash = "e57e8c9874174113439c6ece923129c5fae624038b0314d72a713db39f713770"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/3/0_-1.xwmc"
+hash = "b9b075f7371849dc2d5fb06cb9e5e2b371fd39a17a01bcc46a205a3565c7a51f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/3/0_0.xwmc"
+hash = "767b1e6f8f5b25bb500a1561b6069d059b7b67e70e7942ea9a1846abef7f6bd0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache/3/1_0.xwmc"
+hash = "f819f93c5df5560d237ee3ccd64e547644cec345bd6c5c02b3751532b8265b9f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_-1.xwmc"
+hash = "c9973719dae733f439b6789a03e00315b273d87664aa2b9cefd76861692c2946"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_-2.xwmc"
+hash = "5f444620af45bf6f9e2a93d2f3aebafe489d44713be7775c68122e2ab2beef0e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_-3.xwmc"
+hash = "afd47164ebe53baa05481aef01f30cd9e54954129c5e436755035bcfa5a22a7d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_-4.xwmc"
+hash = "fb1b62af31f38ee51cb7172511ba6afb38c59ec0a6789b7b0356d52110535b1a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_0.xwmc"
+hash = "3f8008d70b41d087336efe2ab1c05c8c86d3268f6b07a7265d9638ff2501b528"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-1_1.xwmc"
+hash = "7602b211c3836c7f50f65ddb86e03df89b81bee3ddb99c2887e0ebfe8ae10654"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-2_-1.xwmc"
+hash = "2da117f68e17b108768ec28f6b369d597a63cda77e03de2c14567890e9d3a534"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-2_-2.xwmc"
+hash = "cd8c108c07e61132e80e6916f684084f84f0176511c504e85a5e3ef83c5030bc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-2_-3.xwmc"
+hash = "aa7351d74f9f8808e28e6a939548447a9868074b792db23437e51d0efde3974f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-2_-4.xwmc"
+hash = "6a4973acd1752c49cdc0ee7aab17467878728c6b00cce8e2b98b78e9deec8325"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-2_0.xwmc"
+hash = "9df7dbfb5b26a01e3a320d2e3d0230bcc5bdcef4b2b2a7e91942d57bfb9a5a44"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-3_-1.xwmc"
+hash = "e2953da37e67b2a454f6ffd872322c6358610daa67b0870567bf81877472c632"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-3_-2.xwmc"
+hash = "9e13a55240c74519e66068dc7a6de5e3c0ed0d5b08eff34952a675750eb311c3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-3_-3.xwmc"
+hash = "b6caee718fbd4c3b3de0d2e9577c9b9281284078574051ba03877ec121cd55ef"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-3_0.xwmc"
+hash = "40d8e722407873957e1065b5e6d3744ac886c63408b911e637e597f7c89c60d3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-4_-1.xwmc"
+hash = "8f1c6fa7f2ae250a5e74b77b78fdfc9ba0b8e1b6a2b3a0974a6d1efeabd95699"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-4_-2.xwmc"
+hash = "8e230ca68704d8cfa15146f80f45e5900dbc85a808ecfec58a2fc97791d4bd86"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-4_-3.xwmc"
+hash = "5db3cb0c8558e6e24b860e6b78ecc7c6bc58b4b894efd589394ecb8c8f82bdd0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-5_-3.xwmc"
+hash = "fcb01c4a1f7c713b9a8c11caa9de0d50f19601a4ab5e13f979f3c80765155c1d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-6_-2.xwmc"
+hash = "b7c79d44d4fc15e581c078bb478bde5f809906f334cd6dea2510985e8e036227"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-6_-3.xwmc"
+hash = "22e9e85dc8490e77d0005231289030b0b11a117035b0a1355f87faacd5c605d3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-6_-6.xwmc"
+hash = "f5f6304cfb97a22eaecfde5f7b1e37d0f132de37b17a304ad62393a7065ea395"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-6_-7.xwmc"
+hash = "94db90a480c0094de88d7afc6a4473d84d48493c6d24ee22159ddce578d949d0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-7_-2.xwmc"
+hash = "633c4be41c790ab801f717cba296cd8230ebbfe619102fb5767bc61e638b994f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-7_-3.xwmc"
+hash = "a8eb149160ac364eba2fd13c7fe5bf0035570c5f79509f415f50fcd098a31231"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-7_-6.xwmc"
+hash = "4118f6f25d409328e667d72cf236af21b04c24e8b640aea7e26b9b4f4cd8faf3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/-7_-7.xwmc"
+hash = "e5699a3824bc8c55a034b0d1ee11b423d9f2c4ba8f0eebf10ded9f120584e2fe"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/0_-1.xwmc"
+hash = "c67388ecfb9c5b809c775123b1b162aeb474b1fcaf615f84793ceb918a1c9168"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/0_-2.xwmc"
+hash = "e7885292d12f9c6a61e068cee4396a32f9913e371ed6ac284bcf1837c5053cda"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/0_-3.xwmc"
+hash = "7cdc2c0aaa866071c66d0cec0bd3323d8c1bcb376aefa9c38b7b365042e1451a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/0_0.xwmc"
+hash = "089a196a49b046c371fa43a8927669190619fedd8373d06752268e0173cecf4a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/0_1.xwmc"
+hash = "af392dec1e3d5b8d3f08d939bb2ec7d7016a2f834051783190202eacb1175a75"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/8_4.xwmc"
+hash = "1700e9cf4a21a8faf4da811084b7da31d20c51cc09d5b4ef6982d228e8ddc469"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/cache_1/9_4.xwmc"
+hash = "37f8158edb31f6a1934faed0abb6e07a9228a04c09257f67bba9d9ec380d9917"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/-1_-3.zip"
+hash = "88e48996cf2ca20292693796b29eb43c67297f54d7aae30423c9031b6df7aca9"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/-1_1.zip"
+hash = "0f590e2092742adc753fc318579d77116dec9d920237420d47b1e358a19092e3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/-2_-3.zip"
+hash = "8635cc53db645bc39a91496209d068da4a25d18aa35343427043a55fa7088538"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/0_1.zip"
+hash = "71e5d3f924b025a90a14ab68ddd0bd707f76aa95a6cdc9f90bffac112d003926"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/cache_1/-1_-3.xwmc"
+hash = "ec430d23ca6672241ce6fcf53055028986b46bbe5d4d1cd7ce5d1ffec2cb7e05"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/cache_1/-1_1.xwmc"
+hash = "9f9efe296add4f8045da74000b2d50e32279c8ce95f0d771f686dd3cff3f2f52"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/cache_1/-2_-3.xwmc"
+hash = "966b325fa86a9bc686949b46c63f859a3c3d1a530acf78aca06ed30cc2471e34"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/3/cache_1/0_1.xwmc"
+hash = "37ba0feb8fe6009fe061a65883ca02eef349ce584feba33a292d7587ead3b2a0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-1_-3.zip"
+hash = "d25953b4a22cac91e0559f904fe6d3c4b8051125caed303278c44fd576d1b116"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-1_-4.zip"
+hash = "2d1cf11929494fd1a4dbe68cd5621e724ceb459f07e7c5a3f6428bfbf839eedf"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-1_0.zip"
+hash = "4b32291c87c98867b18eaab3db2914a429e171d0bb3adadfd6b80280ea521814"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-1_1.zip"
+hash = "3d04a2b0e519f1d6d1b30c797c331afb3e21c99a940d80decd5ac7a4e86ef623"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-2_-1.zip"
+hash = "08c3c038c874792ff4c5d6613b2da5af8fe9906b2c200a775e80f5c3702e0732"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-2_-3.zip"
+hash = "eec7886f0a891afe71c042c16962def08512200bab72055e3280881b43f9f580"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-2_-4.zip"
+hash = "7cad8df554454bb527cd5bbe9bc90f50b9428bad1a8ca912f5ec5168c1b986ae"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-3_-1.zip"
+hash = "c15dc52ac7074dc9a629755ae4ccae3d3453e9d7f66b69c056baeb4fabd48078"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-3_-3.zip"
+hash = "c1bb0f95b994eaceb9a003c9ccd4dd9f154bb8d7e5d6e8e2bb73c31818928566"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/-7_-6.zip"
+hash = "39f59701c439e4b6b787622b19c069cce87f676e448e291333f373797ef9fff3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/0_1.zip"
+hash = "e9643ba5aa0e8a3a76b37cd05043acbb423ccc7827dd207760401bfa28f0e3be"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-1_-3.xwmc"
+hash = "79e25845eb090a2ac70373bb29a25a2e1a72c15c57c570b7512a282df02733a7"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-1_-4.xwmc"
+hash = "2eb077cc7651589b019e2bb09f7aacb283703f3225e1efeff40c4cb68ca90033"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-1_0.xwmc"
+hash = "593c7b3e6ae3fb80e681c972c7027bec19f94eb3fe5eae9a899c7e82f4ddee30"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-1_1.xwmc"
+hash = "8a54526fb762f997d73d4e438976b82f89fe0379938e0fde3f644284d5f375d1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-2_-1.xwmc"
+hash = "802d3deafea03e28cdc0c08d252cc85fdc9dedd8b609671fdb5888a197e7c656"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-2_-3.xwmc"
+hash = "c593ac13c356cfbe1c1e3d9fd6b675460bd9f115cd975d60e1287b07f4f3e5b6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-2_-4.xwmc"
+hash = "01b529d88c0a7fe880c12998fd6ab94eb7ef0819f583803fef136d2c78954280"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-3_-1.xwmc"
+hash = "144cfd50e2d7caa7712ce98d1d9bff948b89e60eeda897deab52863d72834f0d"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-3_-3.xwmc"
+hash = "7cf485321094c25bd8f248523e17e03d00d44f8e1d102f3bafa4e07e094e20c0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/-7_-6.xwmc"
+hash = "131873a31e7487192100238080eec962182dd79736817a26858e163fe2a5b630"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/4/cache_1/0_1.xwmc"
+hash = "3a6b0be6e809a0387f3a81b3d5f0ce24d5c6fd3698c9c1833e23698d4e903d4e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/-1_-3.zip"
+hash = "88b64e11195da8275794308ffda9e2ce199e2ec5b889dc0fb3d52a39612265c2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/-1_1.zip"
+hash = "b7400ef9bb3847bccf61d2ebe4afd67ecf6367bffc4eb4010ae6209a07073719"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/-2_-3.zip"
+hash = "236f35e9c5612afa7c0b5efda88a080241b35f22984242abd7cdd20045de25a0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/-3_-3.zip"
+hash = "c6a62d023b3a69ab75543c5ebab8df8bedecaf4d24cdedd1f0a8e4cb8ae26ff1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/-7_-6.zip"
+hash = "875d9d0742f30288603862d5c8190d97bbf7b2caba1d50a6241dad3831870435"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/cache_1/-1_-3.xwmc"
+hash = "a351aa211c4aa1b4ea1d40f3bc984802795dfe87ee7a5aea3e7bb4369bb46fc6"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/cache_1/-1_1.xwmc"
+hash = "756fcfc11f7ca6b37420db72eaae778926b9445376232f3cb6ebdb934bb2d0dd"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/cache_1/-2_-3.xwmc"
+hash = "a2fd04b8a50994b87e8508cfd1bdba1fe516896c86de18868f89e2b1e894f956"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/cache_1/-3_-3.xwmc"
+hash = "2f643fc0820c7e99c6c5e00c5ad841f17a843afdb09b43f9c4813c867c64d165"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/5/cache_1/-7_-6.xwmc"
+hash = "33951d31b9ba24bb0ad522f01f8a130b854f50edc0bdf086488daad79fe30552"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-1_-2.zip"
+hash = "2a84931b9aab8474cb193062991366cf00ed998dcbf9b519d1871240f6c70a77"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-2_-1.zip"
+hash = "d96269730a71edf77ded418374752b646a89496fb59fddccd02a58756c757c4b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-2_-2.zip"
+hash = "dec7157285a5068073851232961d8d7fd79cc31958859598f3edbefa65639b31"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-3_-1.zip"
+hash = "56d2a1db957d4388189ee36d259b819604a0b5aa45c44fac4b92c54f6968cb34"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-5_-6.zip"
+hash = "0d6fe48a3113cfed57cd1541948f125b3055d2e0751a52a61efdbb789c89ccdc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-6_-6.zip"
+hash = "7bdfaf099756504ea19bad2961fbf75a39ac403e059e95e50d8f62a45caebbb2"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/-7_-6.zip"
+hash = "baed60d8e7070c170a6b5af5e8ae951dacfc07fe2aec8b56fe21a6f6ff814bfb"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-1_-2.xwmc"
+hash = "e2ba84d47403c913ec646ed38348951c87a2c7a384a529d0bccf9c612156fdac"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-2_-1.xwmc"
+hash = "9e50fca64ca01808063d966dbc8ad5f303196b06cc7ae778ea85ecdbd19072dc"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-2_-2.xwmc"
+hash = "e4543307a37854a0a3b3079181fdc4d4c55e81a19d3773a402f3388537562904"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-3_-1.xwmc"
+hash = "840c11a0e4fc6efb794441ae9bafc0a119aae8f0d1a4b30235825ca5ecfe6c8b"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-5_-6.xwmc"
+hash = "a300584eee518eaca04c46cabf484f71f1bafbe2a2b37aa7d3d425c408c16fd8"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-6_-6.xwmc"
+hash = "a9bd85f5342e157d57ed42d73f6f0a47b776549f27ba527fcf341e7c378da728"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/6/cache_1/-7_-6.xwmc"
+hash = "007e95832f353a587569ae8f7026e6127ce27a25f31675f2e03f9b4f4b5fa921"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-1_1.zip"
+hash = "6921935a3430c448c1e15218234931e7a652c0d5adf3db03152ca7e58153cf15"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-2_-1.zip"
+hash = "4af4d189351fa9e74b2d4a63688ad60fc2cee2bcae112c4ab625758af7b26c51"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-3_-1.zip"
+hash = "80c6d4434b3e717255e8069f84a99c12c4b48d967f4c67c74093aa08d01a0f4f"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-5_-6.zip"
+hash = "a916d344d053a16232d6f3a6af44468fbded03e0381dd9421b84d3833ffde367"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-6_-6.zip"
+hash = "dc8448bce5f3c04b9cf8faaf9f1c0c08dc8c4ca2f3fe0abbdf277b6775cf9181"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-7_-6.zip"
+hash = "0153429a3d5d56666c2de20f1fb3059c73da2a5384c2e08d3ae94e5dffc7d0c1"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/-7_-7.zip"
+hash = "1ac7bad9182ac16cdcfa6665baaeed74de500962e501a7cbeb1a60333120ec1a"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-1_1.xwmc"
+hash = "880d402615295f0d5806e18b190092fb3e486f30358acb32d31276d7d93da5b0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-2_-1.xwmc"
+hash = "7983fa6fde8716c141909730d53f542f5cbd2816471901e31067eaeddc9f7569"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-3_-1.xwmc"
+hash = "0e1cfcf16ff6958e0eb9af6ec69880334a5f118a83db31587eb74340464ea4c9"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-5_-6.xwmc"
+hash = "80f639b71efa2114d9feecb7f62443fae08ffdce5bc9e62a96c8b0250e2d923e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-6_-6.xwmc"
+hash = "5d2013503dfbc1cb735d0c828c72dea7e079cb9a05756a960b826b90da0687e3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-7_-6.xwmc"
+hash = "aef47e126fd4df08e6f9ba7803c86ead132f869c32f338d06b79564b809d455e"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/7/cache_1/-7_-7.xwmc"
+hash = "fa9303f2ac4f04ad85724281d1fda7146d9bd80201197b79936c5d1cceea23c0"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/8/-7_-6.zip"
+hash = "beb24feb7c653642f3007b25723061cfadf9175511cb6392c09ca316751d24a8"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/8/cache_1/-7_-6.xwmc"
+hash = "5e8d12b6daed5f63f65896e553284d3ada9d978fdc7f053e67ae51ff7c817481"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/9/-7_-6.zip"
+hash = "651276c24785d129a90a7cc16c351ebf4f0c3ae20fb2ee082ce498862de3eaa3"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/null/mw$-1215235921/caves/9/cache_1/-7_-6.xwmc"
+hash = "fbbe29a43208875d83b2a52ae413363c27312e1bd58d3e82114ad5b01f7814c9"
+
+[[files]]
+file = "temp_mrpack/client-overrides/xaero/world-map/Multiplayer_free-c3.tudouai.cn/server_config.txt"
+hash = "3fd19227ea49b9e27e4fc7f22691584b782cbccfd0b77456dff8ab7568f8509b"
+
+[[files]]
+file = "temp_mrpack/modrinth.index.json"
+hash = "ddc32b2f053c43fe92c07894bd7a0b7a61920082621ec3c061b4cd9701e2cc4d"
 
 [[files]]
 file = "tomls.txt"
