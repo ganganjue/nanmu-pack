@@ -25,102 +25,6 @@ file = "local_mods.txt"
 hash = "faa595b70ac9b9c3a5e3bb91b85bfde1d1a665be9ea6f22ce0e2b548150116c9"
 
 [[files]]
-file = "mods/Axiom-5.2.1-for-MC1.20.1.toml"
-hash = "b9dfa3633b709c8a09203b06d41e332056c8cba6de4bd4e3fe60c9d0fa83dc3e"
-
-[[files]]
-file = "mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.toml"
-hash = "3433022ce28702d77563b0c2d709bf141f620732b77ddcc1b6c2c45070351a59"
-
-[[files]]
-file = "mods/Metropolis-0.4.8-beta-MTR4.0.3+fabric-1.20.1_20260628.toml"
-hash = "0cd5fa24e7edba29441a65da14ec4b1aef3328561a1b3742b9c3d093612e6126"
-
-[[files]]
-file = "mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.0.1.toml"
-hash = "5e6a84c335d37034d03318f825ffb0a9992b139fbf56370ba4aca36d61f44112"
-
-[[files]]
-file = "mods/[创世神] worldedit-mod-7.2.15.toml"
-hash = "928f720255825847d735c18ba9af00e4bdaa8735efd09c53415fb28b03ef7053"
-
-[[files]]
-file = "mods/[天津地铁] Tianjin-Metro-1.1.1+1.20.1.toml"
-hash = "7b312d410b55c1bbf17d7ad8cbc9f1c7c870416a1e35d13ad9e178e90ff5a167"
-
-[[files]]
-file = "mods/[我的世界铁路] MTR-fabric-4.0.5+1.20.1.toml"
-hash = "4ce7caea5571c79852e8df9d1dbada671a9dec9b026ff69d9e987f2e39e5d76b"
-
-[[files]]
-file = "mods/[投影] litematica-fabric-1.20.1-0.15.4.toml"
-hash = "5f4948fc6cdf9316877992008222425672a3c73e67ef173f8976e2c2ec0d9d8b"
-
-[[files]]
-file = "mods/[网络音乐机] netmusic-1.5.1-fabric+mc1.20.1.toml"
-hash = "6f1b44c1b9fc24a0bd27e7f8ad457bbf9fcb561263d9c525173249a66d3d7fda"
-
-[[files]]
-file = "mods/[荏心音乐机] [荏心音乐机]cp-mod-1.1-1.20.1.toml"
-hash = "90e4ff64f6fcd575666e6689fd60c2c980cdf84a72422c83c2ea01f89e3b3848"
-
-[[files]]
-file = "mods/[螃蟹的城建] [螃蟹的城建]crab-city-facilities-1.0.7 1.20-1.20.4.toml"
-hash = "d3deb040a8e9cc3e3ea2f04ec19f3e47594dd5342967074c3e16c6d5a6404f16"
-
-[[files]]
-file = "mods/[螃蟹的路灯] Crab street light 1.20.1_Fabric-1.1.7.toml"
-hash = "b5e524b9504dbc308a5ea93458ea6b431ffc6693155f1a28a3f2e4dd299d0496"
-
-[[files]]
-file = "mods/[轻松建造] effortless-1.20.1-3.4.0.toml"
-hash = "0669e12fcbe2f2408803a72242cf6e78852d64d57b2ca83821f9b9206e7cafca"
-
-[[files]]
-file = "mods/architectury-9.2.14-fabric.toml"
-hash = "328571cb8818304aca5d9816f269f4fce5e5ab2a4f545d429d42e0637e12e050"
-
-[[files]]
-file = "mods/blockus-2.7.22+1.20.1.toml"
-hash = "147360aeeb51a95eb46897f1bae15724053a52c96521e1b964b6a027de7709a2"
-
-[[files]]
-file = "mods/cloth-config-11.1.136-fabric.toml"
-hash = "d1346cc48cc845a0046c4ed3594801a929d7ee8500014adb216fd90a3055a025"
-
-[[files]]
-file = "mods/entityculling-fabric-1.10.5-mc1.20.1.toml"
-hash = "d35575ab8622e5029d9c7a3d86da43b8f942bafbfc62b87c755feed3f4db376d"
-
-[[files]]
-file = "mods/epicterrain-0.2.5.toml"
-hash = "dd13bac69cbc08046682ac8e81a34015bc0f9a2e3fdd3cc378301f10808790ba"
-
-[[files]]
-file = "mods/fabric-api-0.92.9+1.20.1.toml"
-hash = "a9e8dd9bc2931c621111bafd51d14bd84e76c10c4d2e36c168114817ddd312df"
-
-[[files]]
-file = "mods/filters-fabric-1.1.0+1.20.1.toml"
-hash = "896ad9f1134ca4c974bb0e3ee81148c47f107eb050a580739587e57cfbfd175c"
-
-[[files]]
-file = "mods/malilib-fabric-1.20.1-0.16.3.toml"
-hash = "c9f413d8f64fdccf8b5efb80a8912ab2e2b5f4dce735be33533e687d920b56e7"
-
-[[files]]
-file = "mods/mishanguc-1.6.1-1.20.1.toml"
-hash = "438ee5f0c8e3b8b6cc48d1edbc9bdbcfd1481dcda5e919fc55c405744d4c368e"
-
-[[files]]
-file = "mods/xaerominimap-fabric-1.20.1-26.2.0.toml"
-hash = "88d90350906d901f405aef6d169cc8f086b459d21ad8f678fbd4aaae3c409395"
-
-[[files]]
-file = "mods/xaeroworldmap-fabric-1.20.1-1.42.0.toml"
-hash = "c29e627bd6b7e3a7879eab1c80010a3ecdd78c3e5173440206d95323ca684413"
-
-[[files]]
 file = "overrides/CustomSkinLoader/Core/CustomSkinLoader-Common.jar"
 hash = "806d0ae7ec31f4e8d9ba81780556a9d5d3d5994b9799b9ecc67478fc93a98323"
 
@@ -525,6 +429,10 @@ file = "overrides/config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "overrides/mods/Axiom-5.2.1-for-MC1.20.1.jar"
+hash = "84acaaaf8b4f172249e365886eb56fcc47b99417e4bf11bcbe0e9722af1f3d04"
+
+[[files]]
 file = "overrides/mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar"
 hash = "5da394d30ef3783908c6a771c833e4c00e589f65c4b9ece55a398cb3c9b47fbe"
 
@@ -549,24 +457,112 @@ file = "overrides/mods/Ixeris-4.6.2+1.20.1-fabric.jar"
 hash = "facd5b8451677599235521e34064cbbb173cee7f336f07408241b9c89c8feb70"
 
 [[files]]
+file = "overrides/mods/JCM-fabric-2.2.3+1.20.1.jar"
+hash = "6b79c0ceaecf8200da073af6da305aa95cb9294018b02b26ce153bf741ea9955"
+
+[[files]]
 file = "overrides/mods/Jade-1.20-Fabric-11.13.3.jar"
 hash = "5a2830f6e5edabbb632c33eed5b9cabf45495ccb937c976a3656efe74a183375"
+
+[[files]]
+file = "overrides/mods/Metropolis-0.4.8-beta-MTR4.0.3+fabric-1.20.1_20260628.jar"
+hash = "e72062ecbca23c322f54cc7491f28f5d21cab5db8fbfc8e9b6dde07eee1e3183"
+
+[[files]]
+file = "overrides/mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
+hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "overrides/mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.0.1.jar"
+hash = "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"
+
+[[files]]
+file = "overrides/mods/[创世神] worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "overrides/mods/[天津地铁] Tianjin-Metro-1.1.1+1.20.1.jar"
+hash = "1cd65e58987b285a18b19a69347ec8cf971ac578d53517840e4015590f19051c"
+
+[[files]]
+file = "overrides/mods/[我的世界铁路] MTR-fabric-4.0.5+1.20.1.jar"
+hash = "68309633128fc5a70aff5cd467496ad64ec7d60dadfcdb1221f059cffed630c3"
+
+[[files]]
+file = "overrides/mods/[投影] litematica-fabric-1.20.1-0.15.4.jar"
+hash = "ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85"
+
+[[files]]
+file = "overrides/mods/[更好的F3] BetterF3-7.0.2-Fabric-1.20.1.jar"
+hash = "c9282b371c61fa04f329cc57719b1e221d65c057a70dcb93d1d2b430168fda46"
 
 [[files]]
 file = "overrides/mods/[更好的灯] simplylight-fabric-1.20.1-1.4.5.jar"
 hash = "8ffecd103e463a8b21199c89710b4d52cbdb38b90ca9d14e122d7c6649e8e71b"
 
 [[files]]
+file = "overrides/mods/[模组菜单] modmenu-7.2.2.jar"
+hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+
+[[files]]
 file = "overrides/mods/[简单的语音聊天] voicechat-fabric-1.20.1-2.6.21.jar"
 hash = "bb0a5bef7390bc2efeadb6e60946a8ff7b91405ac741b626cc64687cdaf812fc"
+
+[[files]]
+file = "overrides/mods/[网络音乐机] netmusic-1.5.1-fabric+mc1.20.1.jar"
+hash = "d872700af363742a246cf619cc881592cbb83ce8e7e9fa743bec260f1b9ec41d"
+
+[[files]]
+file = "overrides/mods/[荏心音乐机] [荏心音乐机]cp-mod-1.1-1.20.1.jar"
+hash = "78bad5ad8f708ffb8496c50558a26eb1b37751d55e85d09d4d76c04d8b41f265"
+
+[[files]]
+file = "overrides/mods/[螃蟹的城建] [螃蟹的城建]crab-city-facilities-1.0.7 1.20-1.20.4.jar"
+hash = "891d72743741e624ebb51d2ecac8d4c86192e43da2b0a174f6b44873946c8d75"
+
+[[files]]
+file = "overrides/mods/[螃蟹的路灯] Crab street light 1.20.1_Fabric-1.1.7.jar"
+hash = "ff445b5ae9e995f9c84fa0e6eb93e0c026b87410a25e0eb0eb43ec3a4a36ab7b"
+
+[[files]]
+file = "overrides/mods/[轻松建造] effortless-1.20.1-3.4.0.jar"
+hash = "24cbbffe480eb65126af382e1e09d79fdf51862f7f71e27dcdc5e1ac68fd194c"
+
+[[files]]
+file = "overrides/mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
+file = "overrides/mods/blockus-2.7.22+1.20.1.jar"
+hash = "0878851f47a98a4a95496cb932e9f5ab3a5ec7749fc1dc0abb5ebb999e61ab72"
 
 [[files]]
 file = "overrides/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.18.jar"
 hash = "f97579cde7dc6837b30e7287b1da0e04eb31f77edc714d6adabbfdc5649833b9"
 
 [[files]]
+file = "overrides/mods/cloth-config-11.1.136-fabric.jar"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
+
+[[files]]
+file = "overrides/mods/entityculling-fabric-1.10.5-mc1.20.1.jar"
+hash = "cb4deb2a823c83af98fcc06e92807913b482de54981d1657a29882dc1fd4665c"
+
+[[files]]
+file = "overrides/mods/epicterrain-0.2.5.jar"
+hash = "c698ceae7eabe652d267d357cb2dfb40a8db7efddddbd75b53cbc3ff2f5e6e64"
+
+[[files]]
+file = "overrides/mods/fabric-api-0.92.9+1.20.1.jar"
+hash = "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd"
+
+[[files]]
 file = "overrides/mods/ferritecore-6.0.1-fabric.jar"
 hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
+
+[[files]]
+file = "overrides/mods/filters-fabric-1.1.0+1.20.1.jar"
+hash = "83aa9605aa641edf770b64c63a289d864e69e82f28a4a60de40544e22faee9cb"
 
 [[files]]
 file = "overrides/mods/immersive_paintings-0.6.13+1.20.1-fabric.jar"
@@ -581,12 +577,24 @@ file = "overrides/mods/jecharacters-1.21.1-fabric-4.5.27.jar"
 hash = "e06a786b04b6519355661f4f78bc5057002ca579254aabbc490f4c9434b02d6e"
 
 [[files]]
+file = "overrides/mods/malilib-fabric-1.20.1-0.16.3.jar"
+hash = "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589"
+
+[[files]]
+file = "overrides/mods/mishanguc-1.6.1-1.20.1.jar"
+hash = "a4ffc686a776e517af8db24bc78e7ce977c608ab6e87fe1409b0c22af6093dda"
+
+[[files]]
 file = "overrides/mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
 hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 
 [[files]]
 file = "overrides/mods/sodium-extra-0.5.9+mc1.20.1.jar"
 hash = "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f"
+
+[[files]]
+file = "overrides/mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+hash = "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22"
 
 [[files]]
 file = "overrides/mods/sodiumextras-fabric-1.0.7-1.20.1.jar"
@@ -599,6 +607,14 @@ hash = "2e34c4ecac29d2ae363d433b5104aae986161e887252e145fa84a27d04761612"
 [[files]]
 file = "overrides/mods/starlight-1.1.2+fabric.dbc156f.jar"
 hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
+
+[[files]]
+file = "overrides/mods/xaerominimap-fabric-1.20.1-26.2.0.jar"
+hash = "c8e6fbbea71e8b0562f112bff34ad25b67fe0e0dad4c30b1dc47f506b5bfc191"
+
+[[files]]
+file = "overrides/mods/xaeroworldmap-fabric-1.20.1-1.42.0.jar"
+hash = "3dcf982419cdeb73345e5a66fe82d8c526d4fd7c267591de35f7fbb5374333c8"
 
 [[files]]
 file = "overrides/resourcepacks/ERIDU-10000二期改造型.zip"

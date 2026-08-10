@@ -1,7 +1,0 @@
-name = "[网络音乐机] netmusic-1.5.1-fabric+mc1.20.1.jar"
-filename = "[网络音乐机] netmusic-1.5.1-fabric+mc1.20.1.jar"
-side = "both"
-[download]
-url = "https://cdn.modrinth.com/data/gKNuqaQq/versions/bdyl2jpU/netmusic-1.5.1-fabric%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "70c58f0044cab71030b441f5fc691491d3b2ddd7"
